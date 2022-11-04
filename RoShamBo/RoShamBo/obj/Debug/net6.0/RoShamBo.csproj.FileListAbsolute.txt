@@ -1,0 +1,15 @@
+C:\Users\belknjax\Downloads\jaxon\introtoprograming\Random Code\RoShamBo\RoShamBo\obj\Debug\net6.0\RoShamBo.csproj.AssemblyReference.cache
+C:\Users\belknjax\Downloads\jaxon\introtoprograming\Random Code\RoShamBo\RoShamBo\obj\Debug\net6.0\RoShamBo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belknjax\Downloads\jaxon\introtoprograming\Random Code\RoShamBo\RoShamBo\obj\Debug\net6.0\RoShamBo.AssemblyInfoInputs.cache
+C:\Users\belknjax\Downloads\jaxon\introtoprograming\Random Code\RoShamBo\RoShamBo\obj\Debug\net6.0\RoShamBo.AssemblyInfo.cs
+C:\Users\belknjax\Downloads\jaxon\introtoprograming\Random Code\RoShamBo\RoShamBo\obj\Debug\net6.0\RoShamBo.csproj.CoreCompileInputs.cache
+C:\Users\belknjax\Downloads\jaxon\introtoprograming\Random Code\RoShamBo\RoShamBo\bin\Debug\net6.0\RoShamBo.exe
+C:\Users\belknjax\Downloads\jaxon\introtoprograming\Random Code\RoShamBo\RoShamBo\bin\Debug\net6.0\RoShamBo.deps.json
+C:\Users\belknjax\Downloads\jaxon\introtoprograming\Random Code\RoShamBo\RoShamBo\bin\Debug\net6.0\RoShamBo.runtimeconfig.json
+C:\Users\belknjax\Downloads\jaxon\introtoprograming\Random Code\RoShamBo\RoShamBo\bin\Debug\net6.0\RoShamBo.dll
+C:\Users\belknjax\Downloads\jaxon\introtoprograming\Random Code\RoShamBo\RoShamBo\bin\Debug\net6.0\RoShamBo.pdb
+C:\Users\belknjax\Downloads\jaxon\introtoprograming\Random Code\RoShamBo\RoShamBo\obj\Debug\net6.0\RoShamBo.dll
+C:\Users\belknjax\Downloads\jaxon\introtoprograming\Random Code\RoShamBo\RoShamBo\obj\Debug\net6.0\refint\RoShamBo.dll
+C:\Users\belknjax\Downloads\jaxon\introtoprograming\Random Code\RoShamBo\RoShamBo\obj\Debug\net6.0\RoShamBo.pdb
+C:\Users\belknjax\Downloads\jaxon\introtoprograming\Random Code\RoShamBo\RoShamBo\obj\Debug\net6.0\RoShamBo.genruntimeconfig.cache
+C:\Users\belknjax\Downloads\jaxon\introtoprograming\Random Code\RoShamBo\RoShamBo\obj\Debug\net6.0\ref\RoShamBo.dll
